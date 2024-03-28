@@ -2,7 +2,7 @@
 <html> 
   
 <head> 
-    <title>JavaScript Course - Hello World</title> 
+    <title>JavaScript Course - Hellllo World</title> 
     <!-- Script tag can also be placed here -->
     <script src="main.js"> 
        // External JavaScript Code 
